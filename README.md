@@ -14,7 +14,7 @@ Here is the link for [aglie](https://github.com/Hitashikankran/aglie)
 
 ### daa
 
-Here is the link for [DAA](https://github.com/Hitashikankran/daa)
+Here is the link for [DAA](https://github.com/Hitashikankran/DAA1)
 
 ![DAA](https://static.javatpoint.com/tutorial/daa/images/daa-tutorial.png)
 
