@@ -8,7 +8,7 @@ Here is the link to my [Git practicals](https://github.com/Hitashikankran/gitlab
 
 ### aglie
 
-Here is the link for [aglie](https://github.com/Hitashikankran/agile)
+Here is the link for [aglie](https://github.com/Hitashikankran/aglie)
 
 ![agile](https://www.nvisia.com/hubfs/agile-methodology-chicago.png)
 
