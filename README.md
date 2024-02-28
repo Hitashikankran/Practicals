@@ -13,7 +13,7 @@ Agile is a project management and product development approach that prioritizes 
 
 
 
-Here is the link for [aglie](https://github.com/Hitashikankran/aglie)
+Here is the link for [aglie](https://github.com/Hitashikankran/sem4Practicals/tree/aglie-practicals)
 
 ![agile](https://www.nvisia.com/hubfs/agile-methodology-chicago.png)
 
