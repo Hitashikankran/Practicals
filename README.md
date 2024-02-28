@@ -9,12 +9,14 @@ Here is the link to my [Git practicals](https://github.com/Hitashikankran/gitlab
 ![Git](https://miro.medium.com/v2/resize:fit:1400/1*mtsk3fQ_BRemFidhkel3dA.png)
 
 ### aglie
+Agile is a project management and product development approach that prioritizes flexibility, collaboration, and customer satisfaction. It emphasizes iterative and incremental development, adaptability to changing requirements, and continuous feedback throughout the development process. Agile methodologies aim to deliver high-quality, working software in a more efficient and responsive manner compared to traditional project management approaches.
 
 Here is the link for [aglie](https://github.com/Hitashikankran/aglie)
 
 ![agile](https://www.nvisia.com/hubfs/agile-methodology-chicago.png)
 
 ### daa
+The Design and Analysis of Algorithms (DAA) is a field of study within computer science that focuses on the development, design, and analysis of efficient algorithms for solving computational problems. Algorithms are step-by-step procedures or sets of rules for performing a specific task or solving a particular problem. The study of algorithms involves understanding their properties, efficiency, correctness, and practical applicability.
 
 Here is the link for [DAA](https://github.com/Hitashikankran/sem4Practicals/tree/daa-practicals)
 
