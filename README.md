@@ -11,7 +11,7 @@ Here is the link to my [Git practicals](https://github.com/Hitashikankran/sem4Pr
 ### aglie
 Agile is a project management and product development approach that prioritizes flexibility, collaboration, and customer satisfaction. It emphasizes iterative and incremental development, adaptability to changing requirements, and continuous feedback throughout the development process. Agile methodologies aim to deliver high-quality, working software in a more efficient and responsive manner compared to traditional project management approaches.
 
-Here is the link for [aglie](https://github.com/Hitashikankran/aglie)
+Here is the link for [aglie](https://github.com/Hitashikankran/sem4Practicals/tree/aglie-practicals)
 
 ![agile](https://www.nvisia.com/hubfs/agile-methodology-chicago.png)
 
